@@ -1,0 +1,34 @@
+
+.background{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background: rgba(128, 128, 128, 0.384);
+    justify-content: center;
+}
+
+.btn{
+    background: grey;
+    border-radius: 10%;
+    width: 100px;
+    height: 20px;
+    margin-top: 40px; 
+    border:none;
+}
+
+.textbox{
+    width: 250px;
+    height: 10px;
+    margin-top: 41.5px; 
+}
+
+.box{
+    width: 100%;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: green;
+}
+.Q1{
+    margin-top: 20px;
+    position: absolute;
+}
